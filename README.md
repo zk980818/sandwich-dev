@@ -1,7 +1,11 @@
 # Sandwich Dev（三明治开发法）
 
+![License](https://img.shields.io/badge/license-MIT-green) ![agent-skill](https://img.shields.io/badge/type-agent--skill-8a63f5) ![topics](https://img.shields.io/badge/ai--agent-vibe--coding--product--development-4a90e2) ![status](https://img.shields.io/badge/实战-25%2B任务·13REQ·公网上线-14b8a6)
+
 > **你只做定稿人，Agent 承包其余一切，git 留下每一步证据。**
 > You make the calls. The agent does the rest. Every step leaves a git breadcrumb.
+
+`ai-agent` `vibe-coding` `product-development` `workflow` `ai-coding` `prompt-engineering`
 
 一套给 AI Agent 用的产品研发工作流（agent skill），适用于 Claude Code / CatPaw 等文件驱动型编码 Agent。
 
