@@ -7,7 +7,7 @@
 
 `ai-agent` `vibe-coding` `product-development` `workflow` `ai-coding` `prompt-engineering`
 
-一套给 AI Agent 用的产品研发工作流（agent skill），适用于 Claude Code / CatPaw 等文件驱动型编码 Agent。
+一套给 AI Agent 用的产品研发工作流（agent skill），适用于 Claude Code /Codex 等文件驱动型编码 Agent。
 
 ## 它解决什么问题
 
