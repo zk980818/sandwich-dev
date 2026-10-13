@@ -1,0 +1,18 @@
+{
+  "project": "{产品名}",
+  "updated": "{YYYY-MM-DD}",
+  "tasks": {
+    "TASK-001": {
+      "status": "draft",
+      "date": "{YYYY-MM-DD}",
+      "desc": "{一句话任务内容}"
+    }
+  },
+  "active": [
+    "{当前进行中的事项}"
+  ],
+  "checkpoint": "一段话全局进度：做到哪了、下一个里程碑是什么。新会话冷启动先读这里。",
+  "history": [
+    { "ts": "{YYYY-MM-DD}", "event": "{里程碑事件，倒序排列}" }
+  ]
+}
