@@ -78,12 +78,12 @@ docs/ 下每份文件都有明确的首要读者。**PRD 总文档、charter、�
 
 ## 快速开始
 
-方式 A —— 作为 agent skill 安装（CatPaw / Claude Code）：
+方式 A —— 作为 agent skill 安装（Codex / Claude Code）：
 
 ```bash
 # 把本仓库（或其 SKILL.md + templates/）放入技能目录
 cp -r sandwich-dev ~/.claude/skills/   # Claude Code
-# CatPaw 用户放到 ~/.catpaw/skills/
+# Codex 用户放到 ~/.Codex/skills/
 ```
 
 然后对 Agent 说：**"用三明治开发法启动一个新项目：……（一句话需求）"**
