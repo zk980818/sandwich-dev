@@ -97,6 +97,8 @@ node scripts/init.mjs ./my-new-product
 
 ## 工作流全景
 
+![从一句话需求到上线迭代](assets/workflow.png)
+
 ```mermaid
 flowchart TD
     A[一句话需求] --> B[kickoff: Agent 追问<br/>产出 charter.md]
